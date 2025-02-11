@@ -39,8 +39,8 @@ public class ChatbotActivity extends AppCompatActivity {
     List<MessageModel> messageModels;
     MessageAdapter adapter;
 
-    String url = "https://api.openai.com/v1/chat/completions";
-    String accessToken = "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";
+    String url = "";
+    String accessToken = "";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
