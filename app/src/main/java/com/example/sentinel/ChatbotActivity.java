@@ -40,7 +40,7 @@ public class ChatbotActivity extends AppCompatActivity {
     MessageAdapter adapter;
 
     String url = "";
-    String accessToken = "";
+    String accessToken = "Your Key Here";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
